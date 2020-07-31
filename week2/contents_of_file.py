@@ -13,7 +13,7 @@ def create_file(filename):
 
 # Read the file contents and format the information about each row
 def contents_of_file(filename):
-    return_string = ""
+  # return_string = ""
 
   # Call the function to create the file 
     create_file(filename)
