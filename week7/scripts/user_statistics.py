@@ -21,7 +21,9 @@ user_statistics = {
 }
 
 user_statistics['norbert']['INFO_CNT']+=1
-user_statistics['norbert']['ERROR_CNT']+=10
+user_statistics['norbert']['ERROR_CNT']+=1
+
+user_statistics['bob']={'INFO_CNT':0,'ERROR_CNT':1}
 
 print(user_statistics)
 
