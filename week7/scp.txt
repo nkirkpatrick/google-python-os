@@ -1,0 +1,5 @@
+# secure copy example with key
+
+scp -i .\qwikLABS-LXXXX-1XXXXXXX.pem .\ticky_check.py \
+student-XX-xxxxxxxxxxxx@XX.XXX.XX.XXX:/home/student-XX-xxxxxxxxxxxx
+
